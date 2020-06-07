@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           I was changed on the feature branch
-          Now try build for production. It worked!!!
+          <br/>Now try build for production. It worked!!!
           <br/>Kutak Katik. Coba ganti, ganti lagi.
           <br/>Current WORKDIR : /Users/leontinus/workspace/frontend
         </p>
